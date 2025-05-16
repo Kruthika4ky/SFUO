@@ -1,0 +1,501 @@
+Soil_Type,Nitrogen,Phosphorus,Potassium,pH,Moisture,Recommended Fertilizer
+Andosol,41,24,18,6.75,33,Bat Fertilizer
+Calcareous,33,30,20,6.55,33,Poultry Manure
+Limestone,45,21,13,6.35,37,Chitin
+Delta,47,31,11,5.76,31,Organic Liquid Fertilizer
+Spodosol,42,37,38,7.27,38,Calcium Nitrate
+Acidic,33,40,15,6.4,43,Seaweed Extract
+Desert,43,35,23,5.89,38,Cottonseed Meal
+Andosol,21,36,13,6.24,45,Plant Extracts
+Steppe,45,21,15,6.33,46,Ammonium Sulphate
+Forest,33,28,28,7.16,45,Poultry Manure
+Humus,26,29,15,6.97,41,Cow Manure
+Humus,22,21,11,7.04,32,Leaf Mold
+River,42,23,27,5.52,40,Cow Manure
+Latosol,37,22,22,6.33,43,Liquid Fertilizer
+Mollisol,57,37,18,6.46,47,Green Manure
+Histosol,54,43,32,5.54,34,Magnesium Sulfate
+River,34,32,28,6.02,45,Green Manure
+Loamy,44,45,22,7.02,49,Folic Acid
+Swamp,56,44,20,5.77,34,Fish Emulsion
+Latosol,47,49,10,6.57,32,Blood Meal
+Sandy,29,32,33,5.93,41,NPK
+River,58,31,39,5.52,30,NPK
+Gleysol,36,28,31,5.98,38,Chitin
+Black,58,45,16,7.45,38,Compost Tea
+Vertisol,41,38,34,7.1,33,Bat Fertilizer
+Sandy,45,49,30,7.42,32,Humus
+Desert,44,48,24,6.48,46,Vermicompost
+Gray,36,17,10,5.72,31,Calcium Nitrate
+Volcanic,32,40,21,6.6,30,Citrus Fertilizer
+Swamp,39,37,35,6.41,37,NPK
+Gleysol,44,29,16,7.19,42,Seaweed Extract
+Tundra,23,18,24,5.7,44,Bio-Fertilizer
+Chernozem,29,43,30,6.48,37,Ammonium Nitrate
+Wetland,22,36,28,5.8,41,Fish Fertilizer
+Oxisol,37,39,37,6.15,41,Granular Fertilizer
+Woodland,55,27,38,6.97,43,Compost
+Alluvial,41,32,34,6.45,44,Blood Meal
+Delta,53,47,10,6.25,44,Green Manure
+Regosol,27,30,26,6.29,38,Seaweed Extract
+Andosol,59,16,26,6.42,48,Tea Compost
+Gleysol,38,49,12,7.07,49,Magnesium Sulfate
+Tropical,56,48,21,7.28,37,Fish Fertilizer
+Calcareous,25,44,15,7.41,48,Granular Fertilizer
+Loamy,45,27,35,7.07,35,Manure
+Arid,53,27,20,6.13,49,Liquid Fertilizer
+Andosol,25,32,12,6.88,48,Ammonium Nitrate
+Alkaline,56,46,17,6.38,33,Chitin
+Desert,52,46,23,6.01,36,Micronutrients
+Silty,41,49,23,7.18,33,Poultry Manure
+Andosol,40,43,19,5.58,41,Humic Acid
+Marsh,25,43,11,7.3,42,Ammonium Nitrate
+Chalk,25,30,23,6.42,32,Blood Meal
+Tundra,23,24,18,6.77,41,Seaweed Extract
+Floodplain,49,44,12,6.82,31,Green Manure
+Podzol,30,39,30,7.29,31,Green Manure
+Silty,49,34,35,6.77,38,Humus
+Prairie,50,19,17,6.73,30,Horse Manure
+Latosol,43,15,25,5.63,37,Bio-Fertilizer
+Sandy,28,44,11,6.54,35,Slow-Release Fertilizer
+Steppe Soil,22,17,15,5.8,35,Kelp Meal
+Woodland,50,28,37,6.97,47,Poultry Manure
+Regosol,59,44,30,6.52,46,Magnesium Sulfate
+Alkaline,56,18,38,6.86,41,Folic Acid
+Gleysol,55,32,35,5.58,35,Bone Meal
+Acidic,43,39,34,5.67,37,Ammonium Nitrate
+Regosol,50,15,21,6.93,48,Slow-Release Fertilizer
+Brown Clay,25,29,14,5.64,39,Compost Tea
+Floodplain,21,23,11,5.64,30,Bat Guano
+Terrace,39,29,25,5.52,42,Bone Meal
+Mollisol,47,38,14,7.41,46,Cow Manure
+Podzol,30,18,24,6.98,32,Bat Fertilizer
+Histosol,23,26,21,6.21,37,NPK
+Chalk,34,20,13,6.09,43,Ammonium Nitrate
+Sandy,25,38,24,6.2,32,Citrus Fertilizer
+Saline,49,25,20,7.05,45,Urea
+Kandi,57,27,25,6.82,42,Seaweed Extract
+Oxisol,21,48,32,5.87,49,Plant Growth Promoter
+Chalk,34,39,15,5.85,46,Seaweed Extract
+Kandi,30,21,23,5.7,42,Organic
+Limestone,27,18,27,6.82,35,Micronutrients
+Marsh,45,22,21,7.03,46,Liquid Fertilizer
+Prairie,24,34,36,6.03,43,Bat Fertilizer
+Gleysol,25,43,20,5.54,46,Peat Moss
+Yellow,45,24,22,5.66,37,Goat Manure
+Loess,23,48,30,7.44,40,Plant Growth Promoter
+Mollisol,38,40,32,6.09,49,Blood Meal
+Floodplain,39,17,20,7.04,30,Plant Extracts
+Brown,52,20,32,6.75,36,Organic Liquid Fertilizer
+Stagnosol,39,19,25,6.26,46,Kelp Meal
+Delta,31,19,24,5.91,39,Kelp Meal
+Acidic,20,37,30,5.74,40,Tea Compost
+Floodplain,45,23,37,6.73,38,Phosphate Rock
+Forest,33,49,24,7.05,38,Magnesium Sulfate
+Histosol,57,34,34,6.79,34,Blood Meal
+Desert,56,49,13,6.56,46,Compost
+Alluvial,30,32,20,5.58,38,NPK
+Ferralitic,55,31,28,7.44,46,Kelp Meal
+Marsh,32,38,24,7.1,48,Calcium Nitrate
+Regosol,22,17,13,6.09,36,Bone Meal
+Latosol,52,46,30,7.46,38,Phosphate Rock
+River,25,49,22,6.7,36,Potassium Sulfate
+Prairie,29,27,31,6.66,42,Granular Fertilizer
+Tundra,24,39,28,7.0,40,Cottonseed Meal
+Ferralitic,42,23,11,7.12,43,Blood Meal
+Inceptisol,29,18,23,6.81,48,Bat Guano
+Limestone,21,28,38,5.76,40,Humic Acid
+Delta,32,48,13,6.18,42,Organic
+Ferralitic,59,25,25,7.36,43,Tea Compost
+Clay,21,17,30,5.95,42,Plant Extracts
+Tundra,39,42,29,6.24,30,Organic Liquid Fertilizer
+Alkaline,20,43,23,6.36,37,Folic Acid
+Silty,56,23,36,6.38,41,Leaf Mold
+River,28,17,38,6.73,48,Green Manure
+Clay,36,39,24,7.39,41,Dolomitic Lime
+Gleysol,28,48,37,5.98,37,Granular Fertilizer
+Acidic,30,26,12,5.74,37,Green Manure
+River,34,23,17,5.89,42,Bone Meal
+Humus,43,29,25,7.27,41,Green Manure
+Andosol,57,39,19,6.79,45,Compost Tea
+Terrace,54,19,13,6.07,30,Tea Compost
+Acidic,49,25,39,7.13,42,Magnesium Carbonate
+Brown Clay,50,48,27,7.22,36,Potassium Chloride
+Brown Clay,24,38,11,7.19,34,Urea
+Gray,33,29,26,7.34,37,Plant Extracts
+Peaty,30,22,22,6.0,43,Citrus Fertilizer
+Oxisol,28,19,13,7.01,42,Alfalfa Meal
+Andosol,53,40,35,6.42,44,Granular Fertilizer
+Inceptisol,31,32,34,7.18,46,Slow-Release Fertilizer
+Woodland,54,20,39,6.96,44,Vermicompost
+Alkaline,54,27,20,7.05,49,Horse Manure
+Silty,20,42,16,6.81,47,Slow-Release Fertilizer
+Acidic,59,19,21,5.85,47,Bone Meal
+Volcanic,41,27,19,6.59,31,Magnesium Sulfate
+Yellow,48,31,16,7.47,33,Fish Emulsion
+Gray,27,46,22,7.37,30,Plant Growth Promoter
+Stagnosol,30,43,16,5.59,33,Organic Liquid Fertilizer
+Tropical,56,17,33,5.83,47,Micronutrients
+Forest,33,48,26,5.76,34,Organic Liquid Fertilizer
+River,49,41,19,6.95,48,Humus
+Arid,54,27,38,7.14,44,Slow-Release Fertilizer
+Brown Clay,40,47,19,5.93,37,Chicken Manure
+Gleysol,56,20,33,6.51,49,Micronutrients
+Histosol,24,38,13,7.18,46,Bio-Fertilizer
+Swamp,38,33,29,6.97,30,Bat Fertilizer
+Wetland,33,30,13,6.58,41,Plant Growth Promoter
+Brown Clay,45,42,31,6.68,48,Folic Acid
+Clay,23,47,16,6.52,44,Bat Fertilizer
+Brown Clay,44,27,31,6.1,38,Magnesium Sulfate
+Arid,44,39,10,6.63,36,Blood Meal
+Regosol,37,41,21,6.88,31,Micronutrients
+Floodplain,59,21,33,7.25,38,Cottonseed Meal
+Loamy,27,19,22,6.77,39,Folic Acid
+Clay,58,45,19,7.02,31,Vermicompost
+Peaty,59,37,24,5.82,48,Organic Liquid Fertilizer
+Prairie,33,24,36,6.42,40,Magnesium Carbonate
+Tropical,51,46,22,5.52,42,Poultry Manure
+Floodplain,57,44,32,5.99,39,Leaf Mold
+Andosol,52,45,31,6.95,43,Micronutrients
+Wetland,42,32,31,7.48,47,Goat Manure
+Silty,34,16,30,5.7,48,Humus
+Delta,52,28,31,6.3,38,Vermicompost
+Delta,44,27,37,7.1,36,Fish Fertilizer
+Prairie,36,43,18,5.91,32,Cottonseed Meal
+Oxisol,52,26,35,6.61,49,Cow Manure
+Mountain,21,16,18,6.97,35,Micronutrients
+Andosol,33,46,24,6.73,31,Slow-Release Fertilizer
+Red,59,27,19,5.88,35,Blood Meal
+Andosol,59,41,33,6.21,32,Magnesium Carbonate
+Chernozem,58,31,35,7.07,45,Cow Manure
+Calcareous,25,45,34,6.61,37,Blood Meal
+Red,25,48,38,5.51,31,Fish Emulsion
+Chalk,22,38,19,7.02,46,Potassium Chloride
+Black,26,49,17,5.57,38,Liquid Fertilizer
+Arid,27,20,33,6.99,41,Manure
+Forest,34,33,25,5.9,32,Bat Guano
+Andosol,48,44,26,7.42,40,Cow Manure
+Ferralitic,52,21,35,6.24,30,Chitin
+Delta,49,24,36,6.15,42,Seaweed Extract
+Spodosol,58,46,14,5.8,44,Ammonium Nitrate
+Limestone,46,48,13,6.11,34,Organic Liquid Fertilizer
+Mollisol,55,42,27,7.25,46,Blood Meal
+Mountain,48,29,33,7.49,35,Vermicompost
+Red,57,44,28,6.24,40,Horse Manure
+Alkaline,52,43,13,6.4,47,Slow-Release Fertilizer
+Andosol,56,36,37,6.94,33,Folic Acid
+Swamp,46,18,16,7.27,32,Seaweed Extract
+Woodland,52,34,19,6.69,42,Bio-Fertilizer
+Sandy,23,46,34,6.28,38,Citrus Fertilizer
+Oxisol,41,18,27,6.33,35,Ammonium Sulphate
+Ferralitic,21,41,28,6.89,41,Bio-Fertilizer
+Latosol,29,31,13,5.51,31,Manure
+Saline,24,26,19,6.74,32,Bat Guano
+Woodland,29,36,10,6.21,32,Ammonium Nitrate
+Woodland,52,31,32,7.09,41,Organic Liquid Fertilizer
+Gleysol,57,24,27,5.69,44,Folic Acid
+Gleysol,32,15,14,6.68,38,Granular Fertilizer
+Steppe Soil,50,36,24,6.46,37,Phosphate Rock
+Black,55,40,26,6.78,40,Alfalfa Meal
+Humus,43,32,12,5.63,45,Chicken Manure
+Tropical,34,28,21,6.66,33,Chitin
+Woodland,48,43,11,6.62,30,Blood Meal
+Tundra,27,26,10,6.62,36,Fish Emulsion
+Andosol,24,49,32,6.71,31,Bone Meal
+Gray,48,26,30,6.85,34,Potassium Sulfate
+Clay,23,21,26,7.11,36,Leaf Mold
+Wetland,31,43,31,6.04,33,Chelated Iron
+Calcareous,21,25,25,7.15,34,Potassium Chloride
+Mountain,46,47,14,6.5,30,Humic Acid
+Inceptisol,50,20,24,5.65,30,Cottonseed Meal
+Loamy,55,29,12,5.62,44,Calcium Nitrate
+Andosol,55,46,37,6.17,49,Ammonium Sulphate
+Saline,45,25,16,7.07,48,Fish Emulsion
+Acidic,46,37,20,6.92,39,Plant Extracts
+Wetland,24,40,19,7.08,47,Peat Moss
+Silty,39,48,18,6.53,32,Organic
+Arid,30,48,23,6.38,40,Ammonium Nitrate
+Gray,29,43,22,5.79,44,Granular Fertilizer
+Andosol,59,18,38,6.16,40,Magnesium Sulfate
+Oxisol,57,31,34,6.37,46,Chelated Iron
+Gleysol,25,49,39,5.68,46,Cow Manure
+River,27,27,34,5.94,35,Dolomitic Lime
+Delta,42,29,11,6.7,34,Humus
+Kandi,45,43,12,6.97,37,Citrus Fertilizer
+Red,31,43,16,7.5,31,NPK
+Red,45,25,30,7.37,45,Fish Fertilizer
+River,32,46,27,6.79,49,Leaf Mold
+Inceptisol,59,16,12,6.34,41,Potassium Chloride
+Calcareous,37,28,19,6.77,35,Vermicompost
+Chernozem,44,34,31,7.07,30,Citrus Fertilizer
+Chernozem,52,36,38,5.74,33,Urea
+Calcareous,59,25,16,6.32,46,Slow-Release Fertilizer
+Volcanic,31,41,18,7.18,42,Superphosphate
+Andosol,55,17,26,6.27,47,Bat Guano
+Sandy,23,31,20,6.64,34,Cow Manure
+Loamy,24,42,16,6.68,32,Potassium Sulfate
+Chernozem,56,43,33,5.87,40,Bio-Fertilizer
+Arid,27,35,37,6.22,42,Peat Moss
+Chernozem,47,30,23,6.17,33,Bone Meal
+Temperate,50,34,28,5.55,43,Green Manure
+Terrace,28,20,13,5.55,40,Cow Manure
+Chernozem,48,33,35,7.16,39,Bio-Fertilizer
+Sandy,33,19,15,6.05,48,Compost
+Sandy,59,17,19,6.54,47,Citrus Fertilizer
+Woodland,41,15,16,6.1,35,Cottonseed Meal
+Kandi,30,29,22,7.38,44,Plant Extracts
+Forest,42,48,23,6.02,39,Liquid Fertilizer
+Arid,20,49,13,6.36,34,Goat Manure
+Red,56,39,17,7.25,34,Liquid Fertilizer
+Gray,40,38,14,7.18,39,Dolomitic Lime
+Clay,45,26,10,5.87,34,Magnesium Carbonate
+Steppe,55,32,13,7.11,32,Bio-Fertilizer
+Sandy,42,29,12,6.42,35,NPK
+Latosol,20,30,18,6.47,33,Compost
+Gleysol,59,41,17,5.77,47,Cottonseed Meal
+Prairie,34,22,10,5.66,38,Liquid Fertilizer
+Red,40,39,36,6.96,46,Micronutrients
+Saline,28,31,15,6.49,42,Vermicompost
+Red,28,43,18,6.37,44,Kelp Meal
+Tropical,29,22,16,6.96,49,Chelated Iron
+Chalk,45,29,13,7.03,46,Superphosphate
+Tropical,54,41,22,5.82,42,Potassium Sulfate
+Humus,44,21,26,6.72,45,Citrus Fertilizer
+Temperate,45,17,37,5.77,33,Bat Fertilizer
+Terrace,30,43,11,7.0,34,Citrus Fertilizer
+Vertisol,57,38,37,6.81,34,Chitin
+River,21,17,14,7.41,38,Horse Manure
+Peaty,26,34,21,5.64,46,Seaweed Extract
+Calcareous,37,29,36,5.61,42,Horse Manure
+Yellow,46,39,30,6.06,31,Alfalfa Meal
+Saline,53,44,17,6.02,42,Magnesium Sulfate
+Swamp,46,28,15,5.99,48,Slow-Release Fertilizer
+Humus,36,21,17,7.31,32,Organic Liquid Fertilizer
+Stagnosol,43,31,27,6.0,39,Cow Manure
+Alluvial,44,34,12,6.04,31,Goat Manure
+Gray,26,23,31,7.02,42,Chicken Manure
+Silty,25,36,21,6.4,48,Chitin
+Saline,43,16,38,7.05,46,Magnesium Carbonate
+Alluvial,52,38,35,5.63,43,Micronutrients
+Limestone,48,22,12,6.48,41,Manure
+Loamy,41,25,31,5.57,41,Worm Castings
+Steppe Soil,45,27,15,5.63,40,Bat Guano
+Mollisol,47,31,11,7.31,36,NPK
+Steppe,40,22,32,5.78,33,Compost
+Prairie,26,35,21,6.56,48,Seaweed Extract
+Loamy,36,32,11,6.32,30,Folic Acid
+Steppe,39,44,15,6.19,32,Alfalfa Meal
+Steppe Soil,39,32,26,7.3,42,Blood Meal
+Red,41,45,12,5.54,44,Bone Meal
+Alkaline,47,46,11,6.83,31,Bat Fertilizer
+Calcareous,59,25,32,7.43,40,Seaweed Extract
+Inceptisol,26,39,39,6.62,33,Dolomitic Lime
+Gray,20,47,29,7.37,48,Chelated Iron
+Histosol,51,22,17,5.6,46,Blood Meal
+Andosol,32,25,31,6.34,32,Plant Growth Promoter
+Marsh,49,36,21,6.02,47,Liquid Fertilizer
+Histosol,42,38,35,6.96,37,Dolomitic Lime
+Clay,38,31,13,7.46,48,Liquid Fertilizer
+Humus,51,26,14,6.01,34,Slow-Release Fertilizer
+Woodland,49,46,22,6.81,36,Green Manure
+Tundra,48,29,38,5.9,37,Dolomitic Lime
+Podzol,48,30,24,6.63,34,Plant Extracts
+Forest,49,36,34,6.43,46,Liquid Fertilizer
+Brown,35,42,32,7.44,34,Liquid Fertilizer
+Black,59,34,25,6.72,33,Magnesium Sulfate
+Oxisol,38,47,19,6.2,48,Magnesium Carbonate
+Brown Clay,37,24,39,5.73,31,Slow-Release Fertilizer
+Alkaline,20,46,39,5.8,40,Peat Moss
+Alluvial,33,47,34,5.95,42,Leaf Mold
+Prairie,21,16,32,6.0,44,Fish Emulsion
+Stagnosol,47,47,25,7.2,41,Kelp Meal
+Calcareous,49,47,21,6.62,40,Goat Manure
+Chernozem,57,27,26,6.55,36,Cottonseed Meal
+Sandy,23,44,25,5.73,34,Liquid Fertilizer
+Clay,20,47,21,7.22,46,Humus
+Stagnosol,27,27,17,6.95,49,Granular Fertilizer
+Volcanic,48,40,29,5.64,38,Cottonseed Meal
+Peaty,58,36,12,6.92,43,Humic Acid
+Arid,22,16,25,6.59,41,Organic Liquid Fertilizer
+Red,51,40,39,5.66,35,Superphosphate
+Tropical,29,29,22,6.42,46,Chicken Manure
+Silty,29,48,32,6.47,48,Tea Compost
+Inceptisol,38,25,37,5.83,48,Ammonium Nitrate
+Brown Clay,53,17,28,7.39,45,Chitin
+Steppe,52,20,17,7.2,41,Vermicompost
+Stagnosol,42,23,31,6.84,41,Organic
+Alluvial,47,20,14,6.42,49,Bone Meal
+Loamy,51,23,29,6.32,35,Poultry Manure
+Steppe Soil,26,45,17,6.8,33,Plant Extracts
+River,48,46,33,6.59,35,Citrus Fertilizer
+Kandi,27,26,21,5.62,40,Ammonium Nitrate
+Temperate,20,22,10,6.53,30,Kelp Meal
+Gray,22,22,34,7.11,44,NPK
+River,43,42,39,6.42,40,Chicken Manure
+Calcareous,42,34,30,5.6,48,Bat Fertilizer
+Humus,27,21,29,7.07,47,Chitin
+Chernozem,56,25,15,5.9,46,Micronutrients
+Acidic,22,34,31,6.02,48,Alfalfa Meal
+Mollisol,52,30,27,5.83,43,Horse Manure
+Vertisol,47,18,17,6.16,47,Green Manure
+Histosol,27,20,16,7.01,48,Vermicompost
+Steppe Soil,53,36,10,6.54,44,Fish Fertilizer
+Brown Clay,54,40,30,5.91,44,Peat Moss
+Stagnosol,51,17,25,7.26,33,Micronutrients
+Tundra,43,28,21,7.26,36,Cottonseed Meal
+Brown Clay,33,25,15,7.24,42,Kelp Meal
+Tundra,51,32,29,5.98,32,Compost Tea
+Limestone,35,26,11,6.4,45,Magnesium Carbonate
+Marsh,23,37,38,7.47,38,Organic Liquid Fertilizer
+Gleyed,56,26,23,7.04,37,NPK
+Marsh,40,27,13,5.55,49,Horse Manure
+Sandy,33,39,10,5.63,42,Humus
+Kandi,50,33,32,6.43,46,Superphosphate
+Brown Clay,37,22,27,7.32,46,Liquid Fertilizer
+Alluvial,26,43,22,6.58,46,Leaf Mold
+Inceptisol,29,46,11,6.5,30,Ammonium Nitrate
+Mollisol,26,32,18,5.71,37,Bat Guano
+Gray,52,20,30,6.81,48,Ammonium Nitrate
+Chalk,42,32,11,7.14,35,Chelated Iron
+Gray,40,33,36,6.26,32,Compost
+Floodplain,38,36,34,7.05,34,Folic Acid
+Desert,38,46,18,7.43,42,Magnesium Sulfate
+Stagnosol,55,17,10,5.91,44,Magnesium Sulfate
+Steppe Soil,48,42,20,6.55,43,Bone Meal
+Temperate,37,24,12,6.07,45,Bone Meal
+Acidic,21,49,29,7.09,47,Cow Manure
+Alkaline,20,43,39,6.66,40,Leaf Mold
+Loamy,24,29,32,6.77,32,Horse Manure
+Terrace,39,47,35,7.1,39,Manure
+Gray,30,21,13,6.29,39,Fish Emulsion
+Stagnosol,21,26,27,7.33,45,Humic Acid
+Volcanic,22,44,32,6.57,41,NPK
+Andosol,42,35,15,5.82,31,Tea Compost
+Swamp,31,45,12,6.89,38,Citrus Fertilizer
+Tropical,39,38,31,7.09,32,Cottonseed Meal
+Swamp,24,34,20,6.13,44,Urea
+Gleyed,56,18,24,7.21,32,NPK
+Black,57,42,31,7.31,48,Micronutrients
+Vertisol,49,34,37,6.05,47,Calcium Nitrate
+Vertisol,28,38,14,7.47,37,Bat Fertilizer
+Ferralitic,53,46,29,5.78,46,Compost Tea
+Andosol,54,48,19,5.9,37,Liquid Fertilizer
+Kandi,41,16,21,5.87,36,Bat Guano
+Acidic,43,29,24,7.29,36,Dolomitic Lime
+Wetland,36,48,26,6.81,32,Bio-Fertilizer
+Wetland,29,20,19,5.8,30,Green Manure
+Yellow,49,26,15,6.38,33,Compost Tea
+Desert,42,17,27,6.73,34,Compost
+Black,51,32,22,5.67,30,Plant Extracts
+Gray,36,35,12,7.26,44,Blood Meal
+Woodland,36,29,39,7.11,34,NPK
+Regosol,33,47,33,6.51,42,Potassium Sulfate
+Gray,28,49,19,7.43,37,Ammonium Nitrate
+Peaty,59,40,39,6.34,37,Poultry Manure
+Stagnosol,21,22,23,7.47,34,Poultry Manure
+Steppe,44,44,15,6.84,38,Leaf Mold
+Chalk,58,37,12,6.77,30,Humus
+Brown Clay,28,28,25,5.83,33,Chitin
+Chernozem,41,28,16,7.26,32,Folic Acid
+Terrace,23,16,29,6.35,31,Worm Castings
+Gleysol,45,19,23,5.82,37,Magnesium Sulfate
+Woodland,48,28,18,5.53,38,Horse Manure
+Black,53,39,24,6.62,31,Manure
+Limestone,42,34,30,6.55,43,Organic
+Gleyed,56,16,12,6.94,43,Alfalfa Meal
+Latosol,30,20,11,7.28,33,Tea Compost
+Saline,25,31,36,5.66,35,Bio-Fertilizer
+Brown Clay,37,39,11,6.96,40,Chelated Iron
+Inceptisol,40,42,12,5.87,32,Compost Tea
+Arid,55,16,27,7.22,37,Chelated Iron
+River,57,49,23,7.14,32,Plant Extracts
+Limestone,53,19,29,6.58,43,Compost Tea
+Chernozem,36,15,27,6.92,42,Chicken Manure
+Gleyed,56,26,19,6.13,42,Poultry Manure
+Latosol,44,37,34,6.44,31,Worm Castings
+Brown,57,45,11,7.14,42,Peat Moss
+Brown Clay,31,25,34,6.42,48,Tea Compost
+Gray,42,24,38,6.22,35,Compost Tea
+Calcareous,41,17,31,6.49,45,Chelated Iron
+Desert,40,28,10,7.16,31,Kelp Meal
+Red,46,30,13,6.17,37,Plant Growth Promoter
+Forest,50,24,23,5.85,46,Worm Castings
+Gray,25,43,10,6.92,31,Poultry Manure
+Loamy,46,24,23,7.15,39,Ammonium Sulphate
+Marsh,59,26,25,5.7,45,Tea Compost
+Tundra,53,44,31,5.98,35,Leaf Mold
+Oxisol,31,15,23,5.78,31,Ammonium Nitrate
+Brown,26,19,38,6.2,31,Granular Fertilizer
+Kandi,29,34,29,6.4,42,Urea
+Loamy,36,22,12,7.0,44,Bone Meal
+Histosol,45,26,12,6.8,31,Leaf Mold
+Gleyed,40,15,18,6.74,36,Bone Meal
+River,47,34,15,6.2,32,Leaf Mold
+Podzol,21,42,34,7.18,37,Goat Manure
+Red,20,26,22,6.44,43,Plant Growth Promoter
+Regosol,55,42,30,7.46,36,Ammonium Nitrate
+Swamp,45,29,11,6.77,36,Compost Tea
+Forest,48,20,17,5.75,30,Superphosphate
+Sandy,40,34,30,6.85,46,Organic
+Wetland,30,28,11,6.15,38,Cottonseed Meal
+Oxisol,59,16,13,6.87,42,Phosphate Rock
+Sandy,30,23,34,5.64,48,Phosphate Rock
+Prairie,55,34,24,5.85,48,Humus
+Terrace,58,40,13,7.21,46,Alfalfa Meal
+Histosol,59,43,22,5.95,39,Tea Compost
+Gray,54,15,37,7.17,39,Chitin
+Silty,53,49,21,6.06,33,Folic Acid
+Spodosol,43,20,37,6.79,37,Seaweed Extract
+Kandi,41,19,22,6.89,49,Bat Guano
+Stagnosol,24,47,23,6.53,49,Alfalfa Meal
+Andosol,52,28,29,6.11,47,Seaweed Extract
+Limestone,55,26,27,5.93,43,Dolomitic Lime
+Oxisol,39,34,38,5.57,47,Urea
+Tropical,38,38,37,6.11,43,Calcium Nitrate
+Prairie,54,48,15,6.81,49,Urea
+Brown Clay,36,39,38,7.38,44,Vermicompost
+Podzol,53,43,20,7.24,33,Compost
+Tundra,28,45,39,7.03,42,Bat Fertilizer
+River,45,37,11,7.08,37,Compost
+Mountain,21,34,37,6.83,47,Peat Moss
+Alkaline,28,37,32,6.02,41,Granular Fertilizer
+Mollisol,28,30,28,7.31,43,Bat Fertilizer
+Ferralitic,59,22,28,6.84,31,Plant Extracts
+Steppe Soil,36,35,14,6.62,47,Tea Compost
+Clay,20,15,28,5.72,31,Cow Manure
+Acidic,44,22,11,6.39,40,Horse Manure
+Gleyed,59,43,19,6.42,38,Ammonium Nitrate
+Alluvial,44,46,34,7.23,41,Chicken Manure
+Floodplain,58,19,11,6.59,46,Liquid Fertilizer
+Volcanic,54,36,39,6.26,44,Ammonium Sulphate
+Andosol,22,48,20,7.45,46,Fish Fertilizer
+Forest,56,15,27,5.72,47,Horse Manure
+Delta,49,40,38,6.35,35,Superphosphate
+Woodland,57,24,33,5.58,46,NPK
+Yellow,53,44,24,6.98,47,Ammonium Nitrate
+Sandy,31,32,18,7.34,37,Magnesium Carbonate
+Red,38,31,32,6.06,38,Blood Meal
+Forest,56,40,28,7.22,35,Green Manure
+Swamp,36,22,18,6.08,34,Humic Acid
+Andosol,29,26,12,7.32,41,Compost Tea
+Tundra,31,41,30,7.01,40,Micronutrients
+Swamp,35,22,18,7.11,30,Manure
+Swamp,43,39,37,5.54,40,Green Manure
+Chernozem,38,18,39,7.43,48,Citrus Fertilizer
+Calcareous,27,47,23,6.95,38,Peat Moss
+Oxisol,50,15,28,6.11,31,Fish Emulsion
+Saline,40,33,16,7.16,41,Green Manure
+Delta,36,45,25,6.06,33,Chitin
+Kandi,42,30,25,7.25,33,Fish Fertilizer
+Spodosol,56,28,37,5.73,47,Chitin
+Arid,35,19,10,6.91,44,Poultry Manure
+Gray,25,40,13,6.58,48,Phosphate Rock
+Acidic,27,42,13,5.69,42,Humus
+Latosol,44,16,16,5.98,48,Leaf Mold
+Gleysol,37,20,17,5.52,46,Green Manure
+Gleysol,44,23,26,6.44,35,Slow-Release Fertilizer
+Peaty,31,47,14,6.1,45,NPK
+Andosol,34,39,16,6.7,41,Dolomitic Lime
+Chalk,45,27,37,6.09,48,Micronutrients
+Saline,45,23,29,6.1,34,Organic Liquid Fertilizer
+Ferralitic,51,27,38,6.99,46,Worm Castings
